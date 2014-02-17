@@ -1,0 +1,89 @@
+PCBNEW-LibModule-V1  Sun 16 Feb 2014 20:34:24 CET
+# encoding utf-8
+Units mm
+$INDEX
+TO-100
+$EndINDEX
+$MODULE TO-100
+Po 0 0 0 15 530112A2 00000000 ~~
+Li TO-100
+Sc 0
+AR 
+Op 0 0 0
+T0 0.01 6.07 1 1 0 0.15 N V 21 N "TO-100"
+T1 -5.45 -3.68 1 1 0 0.15 N V 21 N "VAL**"
+DS -3.64 2.66 -4.62 3.35 0.15 21
+DC 0 0 1.775 0 0.15 21
+DC 0 0 4.48 0 0.15 21
+$PAD
+Sh "1" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.92 0
+$EndPAD
+$PAD
+Sh "6" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.92 0
+$EndPAD
+$PAD
+Sh "10" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.36 1.72
+$EndPAD
+$PAD
+Sh "5" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.36 -1.72
+$EndPAD
+$PAD
+Sh "2" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.36 -1.72
+$EndPAD
+$PAD
+Sh "7" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.36 1.72
+$EndPAD
+$PAD
+Sh "9" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.9 2.78
+$EndPAD
+$PAD
+Sh "4" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.9 -2.78
+$EndPAD
+$PAD
+Sh "8" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0.9 2.78
+$EndPAD
+$PAD
+Sh "3" C 1 1 0 0 0
+Dr 0.57 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -0.9 -2.78
+$EndPAD
+$EndMODULE TO-100
+$EndLIBRARY
